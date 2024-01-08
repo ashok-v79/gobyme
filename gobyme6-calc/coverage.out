@@ -1,0 +1,18 @@
+mode: set
+github.com/akv/c1/calc1.go:6.13,8.6 2 0
+github.com/akv/c1/calc1.go:8.6,11.22 2 0
+github.com/akv/c1/calc1.go:11.22,12.9 1 0
+github.com/akv/c1/calc1.go:14.3,14.39 1 0
+github.com/akv/c1/calc1.go:14.39,16.12 2 0
+github.com/akv/c1/calc1.go:18.3,21.34 4 0
+github.com/akv/c1/calc1.go:25.26,31.2 5 0
+github.com/akv/c1/calc1.go:33.33,37.2 3 0
+github.com/akv/c1/calc1.go:39.24,41.2 1 1
+github.com/akv/c1/calc1.go:43.29,45.2 1 1
+github.com/akv/c1/calc1.go:47.29,49.2 1 1
+github.com/akv/c1/calc1.go:51.27,53.2 1 1
+github.com/akv/c1/calc1.go:55.54,56.20 1 1
+github.com/akv/c1/calc1.go:57.9,58.13 1 1
+github.com/akv/c1/calc1.go:59.9,60.18 1 1
+github.com/akv/c1/calc1.go:61.9,62.18 1 1
+github.com/akv/c1/calc1.go:63.10,64.16 1 1
